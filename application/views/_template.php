@@ -27,7 +27,7 @@ if (!defined('APPPATH'))
                     {menubar} </div>
             </div>           
             <div id="content">
-                <h1>{title}</h1>
+                <h1>What we are up to: {title}</h1>
                 {content}
             </div>
             <div id="footer" class="span12">
